@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Ales Kutsepau <ales.kutepov@gmail.com>"]
+channels = ["conda-forge"]
+name = "shapes"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+copier = ">=9.11.3,<10"
