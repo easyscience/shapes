@@ -9,7 +9,7 @@
   </picture>
 </p>
 
-**EasyShapes** is a scientific software for generation of ordered molecular aggregates and pre-assembled composite structures to seed molecular dynamics (md) simulations aimed at studying equilibration (relaxation) processes in soft matter and biomolecular systems..
+**EasyShapes** is a scientific software for generation of ordered molecular aggregates and pre-assembled composite structures to seed molecular dynamics (MD) simulations aimed at studying equilibration (relaxation) processes in soft matter and biomolecular systems.
 
 <!-- HOME REPOSITORY SECTION -->
 
