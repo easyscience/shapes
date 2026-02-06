@@ -20,6 +20,8 @@ This repository serves as the central hub for the **EasyShapes** family.
 
 
 
+- 🖥 Desktop application - repository [`shapes-app`](https://github.com/easyscience/shapes-app)
+
 
 ### Useful Links:
 
