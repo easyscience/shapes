@@ -7,15 +7,6 @@ version = "0.1.0"
 
 [tasks]
 copier-update = 'copier update'
-# lint-format.yml, from the template, runs these. The hub has no Python
-# package, pyproject.toml or prettier config to check, so they only say so
-post-install = 'echo "post-install: nothing to install in the hub repo"'
-pyproject-check = 'echo "pyproject-check: no pyproject.toml in the hub repo"'
-license-check = 'echo "license-check: no source files in the hub repo"'
-py-lint-check = 'echo "py-lint-check: no Python package in the hub repo"'
-py-format-check = 'echo "py-format-check: no Python package in the hub repo"'
-docstring-lint-check = 'echo "docstring-lint-check: no Python package in the hub repo"'
-nonpy-format-check = 'echo "nonpy-format-check: no prettier config in the hub repo"'
 
 [dependencies]
 copier = ">=9.11.3,<10"
